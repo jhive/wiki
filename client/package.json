@@ -1,0 +1,22 @@
+{
+  "name": "jhives-wiki",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~3.2.6",
+    "jade": "~0.31.2"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-jshint": "~1.5.0",
+    "gulp-stylus": "0.0.13",
+    "jshint-stylish": "~0.1.5",
+    "gulp-watch": "~0.5.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-connect": "~1.0.5",
+    "gulp-concat": "~2.1.7",
+    "gulp-uglify": "~0.2.1",
+    "gulp-rimraf": "0.0.9",
+    "gulp-mocha": "~0.4.1"
+  }
+}
